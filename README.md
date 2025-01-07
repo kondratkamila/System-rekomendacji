@@ -83,6 +83,7 @@ Follow the steps below to set up the project locally:
 3. Generate insights or visualizations using built-in tools.
 4. Explore the predictions and analyze trends.
 
+
 ![Project Image](photo/rekomendacje.png)
 
 ![Project Image](photo/wyszukiwarka.png)
