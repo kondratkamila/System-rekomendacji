@@ -83,9 +83,9 @@ Follow the steps below to set up the project locally:
 3. Generate insights or visualizations using built-in tools.
 4. Explore the predictions and analyze trends.
 
-![Project Image](C:/Users/User/source/repos/kondratkamila/System-rekomendacji/rekomendacje.png)
+![Project Image](rekomendacje.png)
 
-![Project Image](C:/Users/User/source/repos/kondratkamila/System-rekomendacji/wyszukiwarka.png)
+![Project Image](wyszukiwarka.png)
 
 ---
 
