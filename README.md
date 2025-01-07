@@ -83,9 +83,9 @@ Follow the steps below to set up the project locally:
 3. Generate insights or visualizations using built-in tools.
 4. Explore the predictions and analyze trends.
 
-![Project Image](rekomendacje.png)
+![Project Image](photo/rekomendacje.png)
 
-![Project Image](wyszukiwarka.png)
+![Project Image](photo/wyszukiwarka.png)
 
 ---
 
@@ -145,11 +145,8 @@ Contributions are welcome! If you'd like to improve this project, please follow 
 
 For questions, feedback, or job inquiries, feel free to reach out:
 
-- **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
-- **LinkedIn**: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
+- **LinkedIn**: https://www.linkedin.com/in/Kamila-Kondrat
+  
 ---
 
 ### 🌟 Thank you for checking out this project!
